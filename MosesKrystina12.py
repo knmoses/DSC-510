@@ -1,8 +1,3 @@
-#File: MosesKrystina 12, Final Project
-#Name: Krystina Moses
-#Date: June 2019 // Week 12
-#Course: Intro to Programming
-
 import json
 import requests
 from requests.exceptions import HTTPError
