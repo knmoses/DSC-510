@@ -1,7 +1,7 @@
 ## Class
 Introduction to Programming
 
-## Weather Information Center
+## About
 This project takes an input of a city or zip code and provides the current weather.
 
 #### Programming Language
