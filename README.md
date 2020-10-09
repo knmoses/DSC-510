@@ -13,4 +13,4 @@ http://api.openweathermap.org/data/2.5/weather?
 ## License
 MIT License
 
-Copyright (c) [2020] [Krystina Moses]
+Copyright (c) 2020 Krystina Moses
