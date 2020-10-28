@@ -4,6 +4,9 @@ Introduction to Programming
 ## About
 This project takes an input of a city or zip code and provides the current weather.
 
+## Installation
+
+
 ## Programming Language
 Python
 
